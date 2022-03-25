@@ -1,14 +1,31 @@
 body {
+
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Red+Hat+Mono&display=swap');
+    background-image: url(fundo.jpg);
+    background-size: cover;
+
 }
 
 main#container {
+
+    
+
 }
 
 h1.titulo {
+
+    font-family: 'Oswald', sans-serif;
+
 }
 
 p.frase {
+
+    font-family: 'Red Hat Mono', monospace;
+
 }
 
 p.autor {
+
+    font-family: 'Red Hat Mono', monospace;
+
 }
