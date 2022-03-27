@@ -3,12 +3,21 @@ body {
     @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Red+Hat+Mono&display=swap');
     background-image: url(fundo.jpg);
     background-size: cover;
+    font-size: 20px;
+    color: black;
+
 
 }
 
 main#container {
 
-    
+ 
+opacity: 0.5;
+background-color: #435C73;
+border-width: medium;
+border-style: solid;
+border-color: #323C59;
+
 
 }
 
